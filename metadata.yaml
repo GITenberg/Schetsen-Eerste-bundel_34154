@@ -1,0 +1,39 @@
+_repo: Schetsen-Eerste-bundel_34154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heijermans, Herman
+    aliases:
+    - Heyermans, Herman
+    - Falkland, Samuel
+    - Sperber, Heinz
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '9057'
+    url: http://www.gutenberg.org/2009/agents/9057
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
+description: ''
+gutenberg_issued: '2010-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34154'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+tableOfContents: Narcis -- Verhaaltje -- Huishouden -- Van een juffrouw -- Poes --
+  De Mof -- Tante Riek -- Nacht -- Bartje -- Binnenhuis-ideaal -- Droom -- Grootmoedertje
+  -- Proletariërs -- Prinses Colibri -- Bloemen -- Meissie -- Warrem -- Fondant --
+  Grietje -- Schim -- Bal in een stal -- Mintenee -- Zusters -- Van twee ongetrouwde
+  meisjes en een hond -- Doode -- Naaimugje -- Bloedspat -- Amstel -- Oudejaar --
+  Poppenwinkel -- Rouw -- Kliniek -- Avondverhaaltje -- Engagement -- Kamerhoek --
+  Gemengd bericht -- Kunstenaars-emotie -- Bezoek -- Dolce far niente -- Mopje --
+  Leeg verhaaltje -- Droge vrouwtje.
+title: Schetsen, Eerste bundel
+url: http://www.gutenberg.org/ebooks/34154
