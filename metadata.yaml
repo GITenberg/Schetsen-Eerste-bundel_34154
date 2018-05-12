@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9057
     wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34154#Schetsen-Eerste-bundel
 gutenberg_issued: '2010-10-27'
 gutenberg_type: Text
 identifiers:
